@@ -1,16 +1,7 @@
-# news_app
+#News App
 
-A new Flutter project.
+It specializes in showing topics such as Sports, Tech, and Science, and includes a search feature for finding articles on any topic.
 
-## Getting Started
+Additionally, the app offers a dark mode for comfortable reading at night and a web-view feature for viewing articles in full.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To build the app, I used an API with Dio and implemented Bloc state management with Cubit.
